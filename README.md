@@ -3,17 +3,17 @@
 </p>
 
 
-# Sale Prediction
+# Sales Prediction
 
 ## Analyzing Greatest & Least Salaries and Remote Work Opportunities
 
-Sherlin Whaley
+-John Keats
 
-### Often times when choosing a career path, career seekers that have a love for data science want to work from home and earn the highest salary possible while doing so. There are so many options to choose from and knowing which path will be the best path to choose can be challenging.
+### While we don't know the context in which John Keats mentioned this, we are sure about its implication in data science. While you would have enjoyed and gained exposure to real world problems in this challenge, here is another opportunity to get your hand dirty with this practice problem powered by Analytics Vidhya.
 
 ## Data Source: 
-Data Science Job Salaries
-https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
+Sales Prediction
+[https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/)
 
 For this dataset, there were 607 rows and 12 columns.
 
