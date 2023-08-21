@@ -63,7 +63,7 @@ This graph shows the median is around 1800 for this particular column.
   - Frozen Foods
   - Dairy
 
-  We can also see that the bottom five type that have the least of the items are as follows:
+We can also see that the bottom five type that have the least of the items are as follows:
   - Seafood
   - Breakfast
   - Starchy Foods
@@ -76,7 +76,7 @@ This graph shows the median is around 1800 for this particular column.
 </p>
 
 - Here we can see that most outlet location type is Tier 3. The least outlet location type is Tier 1.
-
+- This graph shows that `Data Engineers` have the most roles that are 100% remote, while `Cloud Data Engineers` through `Data Analytics Leads` have the least amount of 100% remote roles.
 
 
 <p align = "center"> 
