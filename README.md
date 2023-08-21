@@ -63,7 +63,7 @@ This graph shows the median is around 1800 for this particular column.
   - Frozen Foods
   - Dairy
 
-- We can also see that the bottom five type that have the least of the items are as follows:
+  We can also see that the bottom five type that have the least of the items are as follows:
   - Seafood
   - Breakfast
   - Starchy Foods
