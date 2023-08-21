@@ -31,7 +31,6 @@ For this dataset, there were 607 rows and 12 columns.
     - During the exploratory data analysis, a boxplot and histogram was visualized for each numeric datatype column.. 
     - Also, a countplot, barplot and heatmap was visualized for each categorical column. 
     - This gave a good baseline for all of the numeric and categorical columns for univariate EDA.
-    
 
 <p align = "center"> 
   <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/item%20outlet%20sales.png">
@@ -45,9 +44,10 @@ This graph shows the median is around 1800 for this particular column.
     - The bargraphs were chosen to show how the categories compare to each other. 
     - Finally, a l.inegraph was chosen to show the trend of salaries over the past three years. 
 
-    <p align = "center"> 
-  <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/EDA%20item%20weight.png">
+<p align = "center"> 
+  <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/item%20outlet%20sales.png">
 </p>
+
 This graph shows the median is around 1800 for this particular column.
 
 ## Explanatory Visuals
@@ -86,13 +86,6 @@ We can also see that the bottom five type that have the least of the items are a
 This graph shows that `Data Engineers` have the most roles that are 100% remote, while `Cloud Data Engineers` through `Data Analytics Leads` have the least amount of 100% remote roles.
 
 
-
-<p align = "center"> 
-  <img src = "https://github.com/coding-dojo-data-science/Project1_Exemplar/blob/main/explanatory4.png">
-</p>
-
-
-This graph shows that workers in 2022 earned the most amount of money.
 
 
  ### Maching Learning Using the Following Models:
