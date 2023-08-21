@@ -56,36 +56,26 @@ This graph shows the median is around 1800 for this particular column.
   <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/item%20type.png">
 </p>
 
-The top five highest earning job titles and average salaries are as follows:
+ Here we can see that the top five Type that have the most items are as follows:
+  - Fruits and Vegetables
+  - Snack Foods
+  - Household
+  - Frozen Foods
+  - Dairy
 
-- Data Analytics Lead: `$405,000.00`
-- Principal Data Engineer: `$328,333.33`
-- Financial Data Analyst: `$275,000.00`
-- Principal Data Scientist: `$198,099.57`
-- Director of Data Science: `$195,074.00`
-
-The bottom five least paying job titles and average salaries are as follows: 
-
-
-- 3D Computer Vision Researcher: `$5,409.00`
-- Product Data Analyst: `$13,036.00`
-- NLP Engineer: `$37,236.00`
-- Computer Vision Engineer: `$44,419.33`
-- Big Data Engineer: `$50,218.12`
-
+- We can also see that the bottom five type that have the least of the items are as follows:
+  - Seafood
+  - Breakfast
+  - Starchy Foods
+  - Others  
+  - Hard Drinks
 
 
 <p align = "center"> 
   <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/location%20type.png">
 </p>
 
-
-The top and bottom earning experience level and average salary is as follows:
-
-- Top Earning Experience Level
-  - Director Level: `$199,561.81`
-- Bottom Earning Experience Level
-  - Junior Level: `$62,049.60`
+- Here we can see that most outlet location type is Tier 3. The least outlet location type is Tier 1.
 
 
 
