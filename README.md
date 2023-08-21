@@ -75,15 +75,13 @@ We can also see that the bottom five type that have the least of the items are a
   <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/location%20type.png">
 </p>
 
-- Here we can see that most outlet location type is Tier 3. The least outlet location type is Tier 1.
-- This graph shows that `Data Engineers` have the most roles that are 100% remote, while `Cloud Data Engineers` through `Data Analytics Leads` have the least amount of 100% remote roles.
-
+- This graph shows that most outlet location type is Tier 3 and the least outlet location type is Tier 1.
 
 <p align = "center"> 
   <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/outlet%20type.png">
 </p>
 
-This graph shows that `Data Engineers` have the most roles that are 100% remote, while `Cloud Data Engineers` through `Data Analytics Leads` have the least amount of 100% remote roles.
+This graph shows that most outlet type is Suppermarket Type1 and the least outlet type is Supermarket Type2.
 
 
 
