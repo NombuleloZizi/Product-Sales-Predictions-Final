@@ -43,13 +43,13 @@ This graph shows the median is around 1800 for this particular column.
  ### Expanatory Data Analysis
     - To visualize the data for explantory purposes, three bargraphs were chosen and one linegraph was chosen.
     - The bargraphs were chosen to show how the categories compare to each other. 
-    - Finally, a linegraph was chosen to show the trend of salaries over the past three years. 
+    - Finally, a l.inegraph was chosen to show the trend of salaries over the past three years. 
 
 
 ## Explanatory Visuals
 
 <p align = "center"> 
-  <img src = "https://raw.githubusercontent.com/coding-dojo-data-science/Project1_Exemplar/main/explanatory1.png">
+  <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/EDA%20item%20weight.png">
 </p>
 
 
