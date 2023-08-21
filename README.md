@@ -45,11 +45,15 @@ This graph shows the median is around 1800 for this particular column.
     - The bargraphs were chosen to show how the categories compare to each other. 
     - Finally, a l.inegraph was chosen to show the trend of salaries over the past three years. 
 
+    <p align = "center"> 
+  <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/item%20type.png">
+</p>
+
 
 ## Explanatory Visuals
 
 <p align = "center"> 
-  <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/EDA%20item%20weight.png">
+  <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/item%20type.png">
 </p>
 
 
