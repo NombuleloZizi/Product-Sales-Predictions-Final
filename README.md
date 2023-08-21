@@ -139,24 +139,24 @@ Using this model to help the retailer understand the properties of products and 
 
 Sales Predictions
 
-- For those who have an interest in Data Science:
-  - Data Analytics Leads & Principal Data Engineers earn the most amount of money. However, this are usually not entry level careers and I would recommend going through a program, like Coding Dojo, where you can earn your data science certificate and then map out your career to these positions.
-
-  - Data Engineers & Data Scientists have the most 100% remote positions. So, if you are wanting to work from home, or work from anywhere in the world, choosing one of the top five remote positions would be a good choice to build your career upon.
+- For those who are interest based on Item type:
+  - Fruits and vegatables appears more than  other item types.
+    
+- For those who are interest based on outlet type:
+  - Suppermarket Type1 is the most outlet type.
   
-  - Lastly, the trend for the last three years show that data science and related fields are increasingly earning more money each year. So, choosing a career in one of these fields can be very lucrative.
+- For those who are interest based on location type:
+  - Tier 3 is the most location type.
+  
 
 Model Performance
-- Overall, the best model is definitely the tuned Random Forest Regressor Model. There was still some bias in the model, but by far it outperformed the linear regression model. 
+- Overall, the best model is definitely the tuned Random Forest Regressor Model. 
 
 
 ## Limitations & Next Steps
 
-From here, a student could use the insights from the visuals on how to tailor their path for their career. As mentioned before, Coding Dojo has a fantastic program that prepares inspiring data scientists for the field of data science. 
+We only used a few visuals, we could add more to have more insight about the prediction of the sales.. 
 
-## For Further Information
-
-For any additional questions, please contact: 
-- Sherlin Whaley (Data Science Instructor)
-- swhaley@codingdojo.com
+## For further information
+- For any additional questions, please contact **Nombulelo Zizi**: zizinombu@gmail.com
 
