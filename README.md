@@ -34,10 +34,10 @@ For this dataset, there were 607 rows and 12 columns.
     
 
 <p align = "center"> 
-  <img src = "https://raw.githubusercontent.com/coding-dojo-data-science/Project1_Exemplar/main/exploratory1.png">
+  <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/item%20outlet%20sales.png">
 </p>
 
-This histogram shows that the majority of the salaries are around $100,000.
+This graph shows the median is around 1800 for this particular column.
 
 
  ### Expanatory Data Analysis
