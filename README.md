@@ -57,6 +57,12 @@ This graph shows the median is around 1800 for this particular column.
 </p>
 
 
+This graph shows the median is around 1800 for this particular column.
+
+<p align = "center"> 
+  <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/item%20type.png">
+</p>
+
 The top five highest earning job titles and average salaries are as follows:
 
 - Data Analytics Lead: `$405,000.00`
