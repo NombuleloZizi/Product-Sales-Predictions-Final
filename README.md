@@ -127,17 +127,17 @@ This graph shows that most outlet type is Suppermarket Type1 and the least outle
   - R^2 = 0.602
 
 
-- The Final Model Chosen was a `Random Forest Regressor Model` with the n_estimators tuned to 50.
-- For the testing set on the model, `56.3%` of the variance in y was explained by x. 
-- The Mean Absolute Error was off by about `$31,998.94`.
-- The Mean Squared Error was `$2,044,264,641.83`.
-- The Root Mean Squared Error had a calculation of `$45,213.55`.
+- The Final Model Chosen was a `Random Forest Regressor Model` with the n_estimators tuned to 60.
+- For the testing set on the model, `60.02%` of the variance in y was explained by x. 
+- The Mean Absolute Error was off by about `$728.683`.
+- The Mean Squared Error was `$1,097,379.432`.
+- The Root Mean Squared Error had a calculation of `$1,074.559`.
 
-Using this model to make predictions about the best places to live and which careers to choose to earn the most money would not be a very reliable. Considering the previous regression metrics from how the model performed, there is a disparity between the R^2 score and also the Root Mean Squared Error that cannot be ignored.
+Using this model to help the retailer understand the properties of products and outlets that play crucial roles in predicting sales. Considering the previous regression metrics from how the model performed, there is a disparity between the R^2 score and also the Root Mean Squared Error that cannot be ignored.
 
 ## Recommendations
 
-Data Science Insights
+Sales Predictions
 
 - For those who have an interest in Data Science:
   - Data Analytics Leads & Principal Data Engineers earn the most amount of money. However, this are usually not entry level careers and I would recommend going through a program, like Coding Dojo, where you can earn your data science certificate and then map out your career to these positions.
