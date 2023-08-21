@@ -5,12 +5,10 @@
 
 # Sales Prediction
 
-## Analyzing Greatest & Least Salaries and Remote Work Opportunities
+**Author**: Nombulelo Zizi
 
--John Keats
-
-### While we don't know the context in which John Keats mentioned this, we are sure about its implication in data science. While you would have enjoyed and gained exposure to real world problems in this challenge, here is another opportunity to get your hand dirty with this practice problem powered by Analytics Vidhya.
-
+### Business problem:
+Analyzing properties of products and outlets that play crucial roles in predicting sales
 ## Data Source: 
 Sales Prediction
 [https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/)
@@ -25,10 +23,13 @@ For this dataset, there were 607 rows and 12 columns.
 
 
 ## To prepare this data, the data was cleaned, and the following processes were performed:
+  - Dropped unwated columns
+  - Most frequest value was used to populate missing values on categorical columns
+  - Mean value was used to populate missing values on numeric columns
 
 ### Exploratory Data Analysis
-    - During the exploratory data analysis, a boxplot and histogram was visualized for each numeric datatype column. 
-    - Also, a barplot was visualized for each categorical column. 
+    - During the exploratory data analysis, a boxplot and histogram was visualized for each numeric datatype column.. 
+    - Also, a countplot, barplot and heatmap was visualized for each categorical column. 
     - This gave a good baseline for all of the numeric and categorical columns for univariate EDA.
     
 
