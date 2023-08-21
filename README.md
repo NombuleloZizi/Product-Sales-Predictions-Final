@@ -46,21 +46,14 @@ This graph shows the median is around 1800 for this particular column.
     - Finally, a l.inegraph was chosen to show the trend of salaries over the past three years. 
 
     <p align = "center"> 
-  <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/item%20type.png">
+  <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/EDA%20item%20weight.png">
 </p>
-
+This graph shows the median is around 1800 for this particular column.
 
 ## Explanatory Visuals
 
 <p align = "center"> 
-  <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/item%20type.png">
-</p>
-
-
-This graph shows the median is around 1800 for this particular column.
-
-<p align = "center"> 
-  <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/item%20type.png">
+  <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/location%20type.png">
 </p>
 
 The top five highest earning job titles and average salaries are as follows:
