@@ -53,7 +53,7 @@ This graph shows the median is around 1800 for this particular column.
 ## Explanatory Visuals
 
 <p align = "center"> 
-  <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/location%20type.png">
+  <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/item%20type.png">
 </p>
 
 The top five highest earning job titles and average salaries are as follows:
