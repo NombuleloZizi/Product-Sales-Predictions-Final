@@ -97,34 +97,34 @@ This graph shows that most outlet type is Suppermarket Type1 and the least outle
 ## Models Evaluated & Results
 
 - Linear Regression Model (Testing Set):
-  - R^2: -1.442820300359156e+22
-  - MAE: 2065461996953278.5
-  - MSE: 6.752807031244359e+31
-  - RMSE: 8217546489825512.0
-
+  - MAE = 803.687
+  - MSE = 1,187,857.066
+  - RMSE = 1,089.889
+  - R^2 = 0.569
+    
 - Decision Tree Regressor Model (Testing Set):
-  - R^2: 0.186
-  - MAE: 41512.219
-  - MSE: 3809835283.133
-  - RMSE: 61723.863
-
+  - MAE = 1,039.842
+  - MSE = 2,229,380.534
+  - RMSE = 1,493.111
+  - R^2 = 0.192
+    
 - Tuned Decision Tree Regressor Model (Testing Set):
-  - R^2: 0.462
-  - MAE: 34610.985
-  - MSE: 2517885802.26
-  - RMSE: 50178.539
+  - MAE = 738.203
+  - MSE = 1,118,036.621
+  - RMSE = 1,057.373
+  - R^2 = 0.595
 
 - Random Forest Regressor Model (Testing Set):
-  - R^2: 0.56
-  - MAE: 31872.362
-  - MSE: 2061515521.69
-  - RMSE: 45403.915
+  - MAE = 772.198
+  - MSE = 1,228,760.100
+  - RMSE = 1,108.495
+  - R^2 = 0.555
 
 - Tuned Random Forest Regressor Model (Testing Set):
-  - R^2: 0.563
-  - MAE: 31998.943
-  - MSE: 2044264641.827
-  - RMSE: 45213.545
+ - MAE = 728.683
+  - MSE = 1,097,379.432
+  - RMSE = 1,047.559
+  - R^2 = 0.602
 
 
 - The Final Model Chosen was a `Random Forest Regressor Model` with the n_estimators tuned to 50.
