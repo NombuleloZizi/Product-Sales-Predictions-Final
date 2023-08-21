@@ -121,7 +121,7 @@ This graph shows that most outlet type is Suppermarket Type1 and the least outle
   - R^2 = 0.555
 
 - Tuned Random Forest Regressor Model (Testing Set):
- - MAE = 728.683
+  - MAE = 728.683
   - MSE = 1,097,379.432
   - RMSE = 1,047.559
   - R^2 = 0.602
